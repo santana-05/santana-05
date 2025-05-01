@@ -1,5 +1,11 @@
 # Olá eu sou Maurícicio Santana 👋🤓
+## Estou iniciando no mundo da programação!
 
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maurício-santana5988)
+
+## 📊 Estatísticas do GitHub
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=santana-05&layout=compact&theme=radical)
 
 <!-- ![Seu Nome de Usuário's GitHub stats](https://github-readme-stats.vercel.app/api?username=santana-05&show_icons=true&theme=radical)
