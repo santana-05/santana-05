@@ -1,6 +1,8 @@
 # Olá eu sou Maurícicio Santana 👋🤓
 
-![Seu Nome de Usuário's GitHub stats](https://github-readme-stats.vercel.app/api?username=santana-05&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=santana-05&layout=compact&theme=radical)
+
+<!-- ![Seu Nome de Usuário's GitHub stats](https://github-readme-stats.vercel.app/api?username=santana-05&show_icons=true&theme=radical)
 
 <!--
 **santana-05/santana-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
